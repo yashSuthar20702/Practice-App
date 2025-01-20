@@ -1,0 +1,50 @@
+PODS:
+  - appstore-card-transition (1.0.4)
+  - Cards (1.4.0):
+    - Player (= 0.13.0)
+  - Charts (4.1.0):
+    - Charts/Core (= 4.1.0)
+  - Charts/Core (4.1.0):
+    - SwiftAlgorithms (~> 1.0)
+  - IQActionSheetPickerView (2.0.1)
+  - Player (0.13.0)
+  - SkeletonView (1.30.4)
+  - SVProgressHUD (2.2.5)
+  - SwiftAlgorithms (1.0.0)
+  - SwiftToast (1.1.3)
+
+DEPENDENCIES:
+  - appstore-card-transition
+  - Cards
+  - Charts
+  - IQActionSheetPickerView
+  - SkeletonView
+  - SVProgressHUD
+  - SwiftToast
+
+SPEC REPOS:
+  trunk:
+    - appstore-card-transition
+    - Cards
+    - Charts
+    - IQActionSheetPickerView
+    - Player
+    - SkeletonView
+    - SVProgressHUD
+    - SwiftAlgorithms
+    - SwiftToast
+
+SPEC CHECKSUMS:
+  appstore-card-transition: 660c136cb8a0f0004b2e99e99f1305bfa041f05c
+  Cards: 45ae6bd0eca7b5e8016d3b6cb30b60b04753f68f
+  Charts: ce0768268078eee0336f122c3c4ca248e4e204c5
+  IQActionSheetPickerView: c9f72981ed76d76b90c93aa7b33ba9dfebdff62b
+  Player: 968d8d07d923bcdd6f7e4091c9e306eb44a5f7a4
+  SkeletonView: 5a050f6411e697abd4cda0a8d767013399dccd69
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+  SwiftToast: 029cbeda85c04fb3fa5df774ba461b19971bc6c5
+
+PODFILE CHECKSUM: c707d26c0fe9b2b4a517daf5ac6190daae666893
+
+COCOAPODS: 1.11.3
